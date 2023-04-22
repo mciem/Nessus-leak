@@ -1,0 +1,9 @@
+requests
+pycryptodome
+pywin32
+emoji
+easygui
+pyfiglet
+colorings
+asyncio
+pynput
